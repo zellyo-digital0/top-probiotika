@@ -1,0 +1,92 @@
+@media(max-width:1024px) {
+    .save_title h4 {
+        font-weight: 600;
+        font-size: 120px;
+    }
+}
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 23px;
+    }
+
+    .cp60 {
+        padding: 30px 10px;
+    }
+
+    .cp40 {
+        padding: 20px 0px;
+    }
+
+    .btn-custom {
+        margin-bottom: 20px;
+    }
+
+    .hero {
+        padding: 60px 0px;
+    }
+
+    .test {
+        width: 100%;
+        margin: auto;
+    }
+
+    .divider {
+        margin-bottom: -60px;
+    }
+
+    .comp_content {
+        padding: 20px 0px;
+    }
+
+    .post {
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .save {
+        text-align: center;
+    }
+
+    .save_div {
+        background-size: 0;
+    }
+
+    .save_title h4 {
+        font-size: 100px;
+    }
+
+    .save_title {
+        margin-bottom: 20px;
+    }
+
+    .save_content h2 {
+        font-size: 23px;
+    }
+
+    .pverg {
+        text-align: center;
+    }
+
+
+
+    .save_content h4 {
+        margin-bottom: 20px;
+    }
+
+    .tes_badge {
+        text-align: center;
+    }
+
+    .vorteile {
+        margin-top: 20px;
+    }
+
+    .footer_content {
+        margin: 20px 0px;
+    }
+}
